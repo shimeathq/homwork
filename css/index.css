@@ -1,0 +1,148 @@
+.page1{
+    display: block;
+    width: 3.75rem;
+    height: 5.65rem;
+    position: relative;
+    background: url(../img/1花朵.png) no-repeat -0.5rem top;
+    background-size: 4.5rem 6.7rem;
+}
+.page1 .img01{
+    display: block;
+    width: 1.66rem;
+    height:2.4rem;
+    color: #48916c;
+    margin: .56rem .56rem .65rem .56rem;
+}
+.page1>h3{
+    display: block;
+    color: #48916c;
+    width: 1.66rem;
+    height: .35rem;
+    margin: 0 .56rem 0 .56rem;
+}
+.page2{
+    display: block;
+    width: 3.75rem;
+    height: 5.65rem;
+    position: relative;
+    background: url(../img/1花朵.png) no-repeat -0.5rem top;
+    background-size: 4.5rem 6.7rem;
+}
+.page2 .kuang{
+    display: block;
+    width: 3.1rem;
+    height: 5.5rem;
+    border: 1px solid #48916c;
+    margin: .7rem .4rem .4rem .4rem;
+    background-color: rgba(253,245,230,.5);
+}
+.page2 .img02{
+    display: block;
+    width: 1.9rem;
+    height: .52rem;
+    margin: .2rem auto 0;
+}
+.page2 .img03{
+    display: block;
+    width: 2.8rem;
+    height: 1.71rem;
+    /* margin-top: 0.7rem; */
+    margin: 0.1rem auto 0;
+}
+.page2 .span1{
+    display: inline-block;
+    background: #48916c;
+    color: white;
+    font-size: .28rem;
+    margin: 0.2rem .9rem;
+}
+.page2 .span2{
+    display:inline-block;
+    color:inherit;
+    font-size: .13rem;
+    line-height: 0.3rem;
+    text-align: center;
+    margin: 0 .4rem 0 .3rem;
+}
+.page3{
+    display: block;
+    width: 3.75rem;
+    height: 5.65rem;
+    position: relative;
+    background: url(../img/1花朵.png) no-repeat -0.5rem top;
+    background-size: 4.5rem 6.7rem;
+}
+.page3 .kuang{
+    display: block;
+    width: 3.1rem;
+    height: 5.5rem;
+    border: 1px solid #48916c;
+    margin: .7rem .4rem .4rem .4rem;
+    background-color: rgba(253,245,230,.5);
+}
+.page3 .img02{
+    display: block;
+    width: 1.9rem;
+    height: .52rem;
+    margin: .2rem auto 0;
+}
+.page3 .span1{
+    display: inline-block;
+    background: #48916c;
+    color: white;
+    font-size: .28rem;
+    margin: 0.2rem .9rem;
+}
+.page3 .img31{
+    display: block;
+    width: 1.92rem;
+    height: 1.37rem;
+    margin:.1rem .3rem 0 .5rem; 
+}
+.page3 .img32{
+    display: block;
+    width: 1.92rem;
+    height: 1.37rem;
+    margin:.1rem .1rem 0 .5rem; 
+}
+.page4{
+    display: block;
+    width: 3.75rem;
+    height: 5.65rem;
+    position: relative;
+    background: url(../img/1花朵.png) no-repeat -0.5rem top;
+    background-size: 4.5rem 6.7rem;
+}
+.page4 .kuang{
+    display: block;
+    width: 3.1rem;
+    height: 5.5rem;
+    border: 1px solid #48916c;
+    margin: .7rem .4rem .4rem .4rem;
+    background-color: rgba(253,245,230,.5);
+}
+.page4 .span1{
+    display: inline-block;
+    background: #48916c;
+    color: white;
+    font-size: .28rem;
+    margin: 0.2rem .9rem;
+}
+.page4 .img02{
+    display: block;
+    width: 1.9rem;
+    height: .52rem;
+    margin: .2rem auto 0;
+}
+.page4 .img41{
+    display: block;
+    width: 1.92rem;
+    height: 1.37rem;
+    margin:.1rem .3rem 0 .5rem; 
+}
+.page4 .img42{
+    display: block;
+    width: 1.92rem;
+    height: 1.37rem;
+    margin:.1rem .1rem 0 .5rem; 
+}
