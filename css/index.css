@@ -57,7 +57,7 @@
     margin: 0.2rem .9rem;
 }
 .page2 .span2{
-    display:inline-block;
+    display:block;
     color:inherit;
     font-size: .13rem;
     line-height: 0.3rem;
@@ -95,15 +95,13 @@
 }
 .page3 .img31{
     display: block;
-    width: 1.92rem;
     height: 1.37rem;
-    margin:.1rem .3rem 0 .5rem; 
+    margin:.1rem .3rem 0 .4rem; 
 }
 .page3 .img32{
     display: block;
-    width: 1.92rem;
     height: 1.37rem;
-    margin:.1rem .1rem 0 .5rem; 
+    margin:.1rem .1rem 0 .4rem; 
 }
 .page4{
     display: block;
@@ -136,13 +134,11 @@
 }
 .page4 .img41{
     display: block;
-    width: 1.92rem;
     height: 1.37rem;
-    margin:.1rem .3rem 0 .5rem; 
+    margin:.1rem .3rem 0 .4rem; 
 }
 .page4 .img42{
     display: block;
-    width: 1.92rem;
     height: 1.37rem;
-    margin:.1rem .1rem 0 .5rem; 
+    margin:.1rem .1rem 0 .4rem; 
 }
